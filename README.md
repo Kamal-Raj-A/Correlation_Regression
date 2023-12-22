@@ -1,4 +1,6 @@
 # Correlation and regression for data analysis
+# Name : A. Kamal raj
+# Ref. no: 212223040082
 # Aim : 
 
 To analyse given data using coeffificient of correlation and regression line
